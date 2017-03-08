@@ -1,0 +1,22 @@
+{
+  "name": "piethes-thcript",
+  "version": "0.0.1",
+  "description": "PiethesThcript: 'pieces script' spoken with a lisp, is a modular bot system including reloading modules and easy to use custom commands.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tech6hutch/piethes-thcript.git"
+  },
+  "author": "Hutch Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tech6hutch/piethes-thcript/issues"
+  },
+  "homepage": "https://github.com/tech6hutch/piethes-thcript#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}

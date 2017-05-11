@@ -3,9 +3,6 @@
     "node": true
   },
   "extends": "eslint:recommended",
-  "globals": {
-    "selfbot_cljs": false
-  },
   "parserOptions": {
     "ecmaVersion": 8,
     "sourceType": "module"
